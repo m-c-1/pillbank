@@ -1,0 +1,147 @@
+[
+  {
+    "drugName": "aspirin",
+    "id": 1,
+    "pharm1": "Aspirin is generally used to treat pain and fever in all regions of the body. Aspirin can prevent blood clots, which lead to heart attack and stroke. Aspirin does these by preventing the production of prostaglandins and thromboxanes.",
+    "pharm2": "Prostaglandins play a role in pain, inflammation and fever. Thromboxanes cause platelet cells in the blood to clump together and clot blood. Aspirin blocks the production of these substances by interfering with the activity of proteins known as COX (cyclo-oxygenase-enzyme). Prostaglandins protect the stomach lining and its inhibition can cause or worsen stomach ulcers. Blocking of thromboxanes can also lead to excessive bleeding.",
+    "contra": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto" 
+  },
+  {
+    "drugName": "aceclofenac",
+    "id": 2,
+    "pharm1": "see Diclofenac",
+    "pharm2": " "
+  },
+  {
+    "drugName": "acetaminophen",
+    "id": 3,
+    "pharm1": "Paracetamol or acetaminophen can be used to treat pain and fever. The action of paracetamol is not fully understood at the time of this documentation.",
+    "pharm2": "It has been proven to interfere with COX (cyclo-oxygenase-enzyme) in the central nervous system (brain and spinal cord) only which makes it a weak anti-inflammatory agent. COX is a protein that aids in the production of prostaglandins, involved in pain and fever. "
+  },
+  {
+    "drugName": "acetazolamide",
+    "id": 4,
+    "pharm1": "Acetazolamide interferes with carbonic anhydrase, a protein that helps regulate the acid-base balance of the body. In the kidney, CA helps maintain body pH by causing retention of basic molecules and urination of acidic molecules. Acetazolamide causes the excretion of basic molecules. This causes loss of body fluids and increased blood acidity.",
+    "pharm2": "This makes it helpful in excreting excess water and relieving pressure associated with glaucoma, post-operative intra-ocular pressure, intra-cranial pressure, heart failure and edema. The increase in acid levels causes a perception of high carbon dioxide levels and the body compensates with deep and heavy breathing making it helpful in managing mountain sickness."
+  },
+  {
+    "drugName": "acetylcysteine",
+    "id": 5,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "aciclovir",
+    "id": 6,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "acrivastine",
+    "id": 7,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "adapalene",
+    "id": 8,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "adrenaline",
+    "id": 9,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "albuterol",
+    "id": 10,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "alendronate",
+    "id": 11,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "allupurinol",
+    "id": 12,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "alprazolam",
+    "id": 13,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "amiodarone",
+    "id": 14,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "amitriptyline",
+    "id": 15,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "amlodipine",
+    "id": 16,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "amoxicillin",
+    "id": 17,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "anastrozole",
+    "id": 18,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "apixaban",
+    "id": 19,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "aripiprazole",
+    "id": 20,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "atomoxetine",
+    "id": 21,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "atorvastatin",
+    "id": 22,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "atenolol",
+    "id": 23,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  },
+  {
+    "drugName": "azithromycin",
+    "id": 24,
+    "pharm1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, vero quis. Optio nemo natus dolores vero necessitatibus commodi dicta labore officiis suscipit ad! Error obcaecati, quae sequi voluptatem quis facere accusantium, veritatis corrupti illo architecto, neque atque ad! Id fugit, odit consequuntur dolore quas officia iusto cum maiores ut architecto.",
+    "pharm2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, dolor. Necessitatibus provident quod labore molestias ipsa saepe beatae rem tempore perferendis modi dolorum fugiat reprehenderit quis non laboriosam dolor, nostrum consectetur sit debitis repellat distinctio? Ab similique obcaecati perspiciatis sapiente, ut itaque eius soluta! Eligendi ea cupiditate accusamus accusantium dolorem."
+  }  
+]
